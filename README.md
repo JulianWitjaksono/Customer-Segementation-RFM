@@ -32,8 +32,8 @@ Knowing best top 5 selling chocolate bar.
 Knowing about the platforms that customers often use to buy chocolate.
 
 # Expected Outcome:
-Find out how much revenue per year and per month.
-Find out sales performance every month.
+~ Find out how much revenue per year and per month.
+~ Find out sales performance every month.
 Find out revenue every Year & Month.
 Find out profit every Year & Month.
 Find out the platforms that customers often use to buy chocolate.
@@ -52,6 +52,7 @@ What is the price of chocolate that customers often buy?
 
 # Data Understanding
 Data of Nichoa Customer with 21 columns and 1616 rows
+
 This data from 02/01/2021 to 24/02/2022
 
 # Data dictionary :
