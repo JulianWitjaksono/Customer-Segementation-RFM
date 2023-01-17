@@ -32,8 +32,8 @@ Knowing best top 5 selling chocolate bar.
 Knowing about the platforms that customers often use to buy chocolate.
 
 # Expected Outcome:
-~ Find out how much revenue per year and per month.
-~ Find out sales performance every month.
+- Find out how much revenue per year and per month.
+- Find out sales performance every month.
 Find out revenue every Year & Month.
 Find out profit every Year & Month.
 Find out the platforms that customers often use to buy chocolate.
