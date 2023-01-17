@@ -8,7 +8,7 @@ This is a collection of sales transaction data for NichoaChocolate, based in Mag
 - Get insight about profit Every Year & Month.
 - Get insight about the platforms that customers often use to buy chocolate.
 - Get insight about the price of chocolate that is often purchased by customers.
-- - Find out best top 5 selling chocolate bar.
+- Find out best top 5 selling chocolate bar.
 - Get business insight about top 5 product sold every segment
 - Increase Marketing Efficiency about chocolate bar using Segment RFM,and EDA.
 
