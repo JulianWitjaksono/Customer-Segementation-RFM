@@ -80,5 +80,5 @@ This data from 02/01/2021 to 24/02/2022
 
 # Data preparation
 Code Used :
-Python Version: 3.7.6 / Google Colaboration and Jupyter Notebook
-Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
+- ****Python Version: 3.7.6 / Google Colaboration and Jupyter Notebook
+- ****Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
