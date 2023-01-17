@@ -55,10 +55,8 @@ Data of Nichoa Customer with 21 columns and 1616 rows
 This data from 02/01/2021 to 24/02/2022
 
 # Data dictionary :
-order no : Order Number
-
-order time : the day and time the customer ordered chocolate
-
+order no : Order Number.
+order time : the day and time the customer ordered chocolate.
 brand : Brand is the name of a specific product.
 
 brand comission rate : commision rate each product
