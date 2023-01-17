@@ -56,26 +56,45 @@ This data from 02/01/2021 to 24/02/2022
 
 # Data dictionary :
 order no : Order Number.
+
 order time : the day and time the customer ordered chocolate.
+
 brand : Brand is the name of a specific product.
 
 brand comission rate : commision rate each product
+
 brand comission amount : commission amount for each product
+
 item group : The product group represents the shape and type of product.
+
 item name : Product Name
+
 item sku : Stock Keeping Units are differentiator types of goods or services sold.
+
 qty : Quantity of the product
+
 currency : currency type for payment
+
 price : product price
+
 add-on price : additional price of the product
+
 discount percent : discount percentage of the product
+
 discount amount : the discount amount of each product
+
 amount : product price/ product amount
+
 tax amount : tax amount of product
+
 cost perunit : valuable calculations to make sure their cost is lower than the selling price of a single unit.
+
 total cost : is the amount of money spent by a company to produce a product in a specific time frame.
+
 profit : the company's net income, or the amount of money you make from sales in a certain period after deducting COGS and expenses. It can also be said as "net income" or "net income."
+
 paid to brand : the amount to be paid to the brand
+
 payment type : payment type to buy products (the type of payment through the bank is an order via whatsapp)
 
 # Data preparation
