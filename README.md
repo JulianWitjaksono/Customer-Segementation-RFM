@@ -4,32 +4,32 @@ This is a collection of sales transaction data for NichoaChocolate, based in Mag
 # use case
 
 # Objective Statement:
-Get insight about revenue Every Year & Month.
-Get insight about profit Every Year & Month.
-Get insight about the platforms that customers often use to buy chocolate.
-Get insight about the price of chocolate that is often purchased by customers.
-Find out best top 5 selling chocolate bar.
-Get business insight about top 5 product sold every segment
-Increase Marketing Efficiency about chocolate bar using Segment RFM,and EDA.
+- Get insight about revenue Every Year & Month.
+- Get insight about profit Every Year & Month.
+- Get insight about the platforms that customers often use to buy chocolate.
+- Get insight about the price of chocolate that is often purchased by customers.
+- - Find out best top 5 selling chocolate bar.
+- Get business insight about top 5 product sold every segment
+- Increase Marketing Efficiency about chocolate bar using Segment RFM,and EDA.
 
 # Challenges:
-Data Have Missing at june 2021.
-Data have a lot Outlier at quantity column.
-Choose specific customer data that buys chocolate bar.
-Remove customers who didnt pay for chocolate bar.
-Methodology / Analytic Technique:
-Descriptive analysis.
-Graph analysis.
-Segment Analysis using RFM Analysis.
+- Data Have Missing at june 2021.
+- Data have a lot Outlier at quantity column.
+- Choose specific customer data that buys chocolate bar.
+- Remove customers who didnt pay for chocolate bar.
+- Methodology / Analytic Technique:
+- Descriptive analysis.
+- Graph analysis.
+- Segment Analysis using RFM Analysis.
 
 # Business Benefit:
-Knowing how to treat customer with specific criteria.
-Knowing sales performance every month so, it can be a reference for future decision making.
-Knowing revenue every Year & Month.
-Knowing profit every Year & Month.
-Knowing about the price of chocolate that is often purchased by customers.
-Knowing best top 5 selling chocolate bar.
-Knowing about the platforms that customers often use to buy chocolate.
+- Knowing how to treat customer with specific criteria.
+- Knowing sales performance every month so, it can be a reference for future decision making.
+- Knowing revenue every Year & Month.
+- Knowing profit every Year & Month.
+- Knowing about the price of chocolate that is often purchased by customers.
+- Knowing best top 5 selling chocolate bar.
+- Knowing about the platforms that customers often use to buy chocolate.
 
 # Expected Outcome:
 - Find out how much revenue per year and per month.
@@ -80,5 +80,5 @@ This data from 02/01/2021 to 24/02/2022
 
 # Data preparation
 Code Used :
-- ****Python Version: 3.7.6 / Google Colaboration and Jupyter Notebook
-- ****Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
+- Python Version: 3.7.6 / Google Colaboration and Jupyter Notebook
+- Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
