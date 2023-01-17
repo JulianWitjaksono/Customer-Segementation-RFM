@@ -82,3 +82,7 @@ This data from 02/01/2021 to 24/02/2022
 Code Used :
 - Python Version: 3.7.6 / Google Colaboration and Jupyter Notebook
 - Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Feature Engine
+
+# This link for dashboard model using google data studio.
+https://datastudio.google.com/reporting/eb6e1d10-55ff-4004-93f5-4c02d9903305
+
